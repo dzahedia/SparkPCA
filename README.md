@@ -1,3 +1,4 @@
 pca-with-spark
 
-This is just a component of a bigger program. 
+This is a tested unit of program. This unit computes the k principle 
+components of a data set.  
