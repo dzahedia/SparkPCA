@@ -1,4 +1,5 @@
 pca-with-spark
 
-This is a tested unit of program. This unit computes the k principle 
-components of a data set.  
+This is a tested unit of program. This unit first transforms the 
+data set and then computes the k principle 
+components of the data set.  
